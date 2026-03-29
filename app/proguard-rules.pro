@@ -1,0 +1,2 @@
+-keep class com.bingoapp.** { *; }
+-keepclassmembers class com.bingoapp.** { *; }
